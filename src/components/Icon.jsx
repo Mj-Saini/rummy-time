@@ -6,7 +6,7 @@ export const FaqArrowIcon = () => {
       viewBox="0 0 29 28"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      class="w-4 h-auto md:w-7"
+      className="w-4 h-auto md:w-7"
     >
       <path
         d="M22.375 10.5L14.5 18.375L6.625 10.5"
