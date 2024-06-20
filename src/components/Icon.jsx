@@ -1,3 +1,23 @@
+export const FaqArrowIcon = () => {
+  return (
+    <svg
+      width="29"
+      height="28"
+      viewBox="0 0 29 28"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      class="w-4 h-auto md:w-7"
+    >
+      <path
+        d="M22.375 10.5L14.5 18.375L6.625 10.5"
+        stroke="#1B2541"
+        strokeWidth="2.625"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      ></path>
+    </svg>
+  );
+};
 export const DropdownArrow = () => {
   return (
     <svg
@@ -25,8 +45,8 @@ export const RummyTimeArrow = () => {
       <path
         d="M297.022 8.47852H8.60533e-06"
         stroke="url(#paint0_linear_1041_252151)"
-        stroke-opacity="0.8"
-        stroke-width="1.5"
+        strokeOpacity="0.8"
+        strokeWidth="1.5"
       ></path>{" "}
       <path
         d="M293.529 1.22852L291.707 6.14991L286.786 7.97099L291.707 9.79207L293.529 14.7135L295.35 9.79207L300.271 7.97099L295.35 6.14991L293.529 1.22852Z"
