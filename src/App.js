@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import RummyTime from "./components/RummyTime";
 import GameVariant from "./components/GameVariant";
 import Faqs from "./components/Faqs";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <RummyTime />
         <GameVariant />
         <Faqs />
+        <Footer />
       </div>
     </>
   );
