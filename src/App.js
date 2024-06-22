@@ -7,6 +7,7 @@ import RummyTime from "./components/RummyTime";
 import GameVariant from "./components/GameVariant";
 import Faqs from "./components/Faqs";
 import Reviews from "./components/Reviews";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <GameVariant />
         <Reviews />
         <Faqs />
+        <Footer />
       </div>
     </>
   );
